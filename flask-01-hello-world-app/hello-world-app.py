@@ -14,4 +14,8 @@ def forth(id):
     return f'Id of this page is {id}'
 if __name__ == '__main__':
     app.run(debug=True)
+<<<<<<< HEAD
     app.run(host= '0.0.0.0', port= 80)
+=======
+    app.run(host= '0.0.0.0', port=80)
+>>>>>>> 165103fa813ccf1f6267ee4ff87668cfc7e02e7d
